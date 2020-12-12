@@ -1,3 +1,39 @@
-[submodule "mods/biomes"]
-	path = mods/biomes
-	url = ""
+[submodule "mods/castle"]
+	path = mods/castle
+	url = https://github.com/minetest-mods/castle.git
+[submodule "mods/decor/flowerpot"]
+	path = mods/decor/flowerpot
+	url = https://github.com/minetest-mods/flowerpot.git
+[submodule "mods/villages/working_villages"]
+	path = mods/villages/working_villages
+	url = https://github.com/theFox6/working_villages.git
+[submodule "mods/libs/smart_inventory"]
+	path = mods/libs/smart_inventory
+	url = https://github.com/minetest-mods/smart_inventory.git
+[submodule "mods/biomes/ethereal"]
+	path = mods/biomes/ethereal
+	url = https://notabug.org/TenPlus1/ethereal.git
+[submodule "mods/materials/moreblocks"]
+	path = mods/materials/moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "mods/decor/cottages"]
+	path = mods/decor/cottages
+	url = https://github.com/Sokomine/cottages.git
+[submodule "mods/animals/mobkit"]
+	path = mods/animals/mobkit
+	url = https://github.com/TheTermos/mobkit.git
+[submodule "mods/animals/petz"]
+	path = mods/animals/petz
+	url = https://github.com/runsy/petz.git
+[submodule "mods/animals/wildlife"]
+	path = mods/animals/wildlife
+	url = https://github.com/TheTermos/wildlife.git
+[submodule "mods/animals/waterlife"]
+	path = mods/animals/waterlife
+	url = https://github.com/berengma/water_life.git
+[submodule "mods/animals/aerotest"]
+	path = mods/animals/aerotest
+	url = https://github.com/berengma/aerotest.git
+[submodule "mods/villages/advanced_npc"]
+	path = mods/villages/advanced_npc
+	url = https://github.com/hkzorman/advanced_npc.git
