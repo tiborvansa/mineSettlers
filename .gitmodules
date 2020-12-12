@@ -1,0 +1,3 @@
+[submodule "mods/biomes"]
+	path = mods/biomes
+	url = ""
