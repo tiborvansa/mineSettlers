@@ -1,0 +1,436 @@
+
+bell07	https://github.com/bell07/minetest_game (fetch)
+origin	https://github.com/minetest/minetest_game (fetch)
+* master                  a0f7623 [origin/stable-5: ahead 1] Fix builtin item metatable.
+Mod: minetest_game/mods/beds
+Mod: minetest_game/mods/binoculars
+Mod: minetest_game/mods/boats
+Mod: minetest_game/mods/bones
+Mod: minetest_game/mods/bucket
+Mod: minetest_game/mods/butterflies
+Mod: minetest_game/mods/carts
+Mod: minetest_game/mods/creative
+Mod: minetest_game/mods/default
+Mod: minetest_game/mods/doors
+Mod: minetest_game/mods/dungeon_loot
+Mod: minetest_game/mods/dye
+Mod: minetest_game/mods/fire
+Mod: minetest_game/mods/fireflies
+Mod: minetest_game/mods/flowers
+Mod: minetest_game/mods/game_commands
+Mod: minetest_game/mods/give_initial_stuff
+Mod: minetest_game/mods/map
+Mod: minetest_game/mods/screwdriver
+Mod: minetest_game/mods/sethome
+Mod: minetest_game/mods/sfinv
+Mod: minetest_game/mods/spawn
+Mod: minetest_game/mods/stairs
+Mod: minetest_game/mods/tnt
+Mod: minetest_game/mods/vessels
+Mod: minetest_game/mods/walls
+Mod: minetest_game/mods/weather
+Mod: minetest_game/mods/wool
+Mod: minetest_game/mods/xpanes
+
+origin	https://github.com/minetest-mods/craftguide/ (fetch)
+* upstream 25e241d [origin/master] Add safety
+Mod: libs/craftguide
+
+origin	https://github.com/minetest-mods/craftguide_reveal (fetch)
+* master ddd1483 [origin/master] Merge pull request #1 from Panquesito7/master
+Mod: libs/craftguide_reveal
+
+origin	http://repo.or.cz/minetest_doc.git (fetch)
+* master b7750f3 [origin/master] Use ephemeral sounds
+Mod: libs/doc
+
+origin	http://repo.or.cz/minetest_doc_basics.git (fetch)
+* master fbb1327 [origin/master] Add newline before console input history
+Mod: libs/doc_basics
+
+origin	http://repo.or.cz/minetest_doc_items.git (fetch)
+* master fc2145a [origin/master] Pick original description if tt mod is used
+Mod: libs/doc_items
+
+origin	http://repo.or.cz/minetest_doc_minetest_game.git (fetch)
+* master 9d5edf9 [origin/master] Update help texts (14/10/2018)
+Mod: libs/doc_minetest_game
+
+origin	https://github.com/bell07/minetest-doc_reveal_chest (fetch)
+* master d487a9a [origin/master] initial commit
+Mod: libs/doc_reveal_chest
+
+origin	https://github.com/minetest-mods/intllib (fetch)
+* master 016f8af [origin/master] Change deprecation title to be clearer
+Mod: libs/intllib
+
+origin	https://github.com/bell07/minetest-whynot_compat (fetch)
+* master 557f1b9 [origin/master] resolve conflict between heads and bonemeal
+Mod: libs/whynot_compat
+
+origin	https://github.com/minetest-mods/awards (fetch)
+* master 4e8d175 [origin/master] Fixed a couple typos.
+Mod: player/awards
+
+origin	https://github.com/minetest-mods/cozy (fetch)
+* master b51cd03 [origin/master] Use mod.conf for dependencies, and description (#3)
+Mod: player/cozy
+
+origin	https://repo.or.cz/minetest_hbarmor.git (fetch)
+* master 93d994c [origin/master] Version 1.0.0
+Mod: player/hbarmor
+
+origin	http://repo.or.cz/minetest_hbhunger (fetch)
+* master a92747c [origin/master] getpos → get_pos
+Mod: player/hbhunger
+
+origin	https://github.com/minetest-mods/hbsprint (fetch)
+* master 1fe580a [origin/master] Don't drain hunger for players with fast privilege (#29)
+Mod: player/hbsprint
+
+origin	https://repo.or.cz/minetest_hudbars.git (fetch)
+* master 0684bac [origin/master] Version 2.3.1
+Mod: player/hudbars
+
+origin	https://github.com/dacmot/moarmour (fetch)
+* master dfba7ef [origin/master] Update README.md
+Mod: player/moarmour
+
+bell07	https://github.com/bell07/playeranim (fetch)
+origin	https://github.com/minetest-mods/playeranim (fetch)
+* master 9dab03f [origin/master] Clear up all animations of all registered models (#1)
+Mod: player/playeranim
+
+origin	http://repo.or.cz/minetest_show_wielded_item.git (fetch)
+* master 83f1997 [origin/master] Add z_index to HUD definition
+Mod: player/show_wielded_item
+
+origin	https://github.com/minetest-mods/wielded_light (fetch)
+* master            4376b55 [origin/master] Code maintanance
+Mod: player/wielded_light
+
+origin	https://github.com/bell07/minetest-player_api_modpack (fetch)
+* master 3a621b7 [origin/master] texture vs textures clearup
+Mod: player_api_modpack/3d_armor
+Mod: player_api_modpack/character_creator
+Mod: player_api_modpack/clothing
+Mod: player_api_modpack/fensta_skins
+Mod: player_api_modpack/homedecor_wardrobe
+Mod: player_api_modpack/multiskin_model
+Mod: player_api_modpack/newhand
+Mod: player_api_modpack/place_your_skins_here
+Mod: player_api_modpack/player_api
+Mod: player_api_modpack/skin_admin
+Mod: player_api_modpack/skins_preview
+Mod: player_api_modpack/skinsdb5
+Mod: player_api_modpack/wieldview
+
+origin	https://github.com/minetest-mods/3d_armor (fetch)
+* master cbd1a12 [origin/master] Update README.md (#25)
+Mod: 3d_armor/3d_armor_stand
+Mod: 3d_armor/shields
+Mod: 3d_armor/3d_armor_sfinv
+
+origin	https://github.com/bell07/minetest-smart_sfinv (fetch)
+* master 0f6bcdc [origin/master] added moarmour => armor group mapping for smart_sfinv_creative_bymod
+Mod: smart_sfinv_modpack/creative_maxstack
+Mod: smart_sfinv_modpack/sfinv_buttons
+Mod: smart_sfinv_modpack/smart_sfinv_api
+Mod: smart_sfinv_modpack/smart_sfinv_creative_bymod
+Mod: smart_sfinv_modpack/smart_sfinv_creative_sitebar
+Mod: smart_sfinv_modpack/smart_sfinv_tweaks
+
+origin	https://notabug.org/TenPlus1/ambience (fetch)
+* master d795042 [origin/master] tweak and tidy code
+Mod: ambience/ambience
+
+origin	https://github.com/minetest-mods/lightning (fetch)
+* master 1059546 [origin/master] Add a setting to disable the random fire chance. (#18)
+Mod: ambience/lightning
+
+origin	https://github.com/Ezhh/under_sky (fetch)
+* master e7f9c6c [origin/master] Add mod.conf and settingtypes.txt
+Mod: ambience/under_sky
+
+origin	https://gitlab.com/rautars/weather_pack (fetch)
+* master fa9e156 [origin/master] Decrease chance for weather flickering effect (#9)
+Mod: ambience/weather_pack
+
+origin	https://notabug.org/TenPlus1/farming (fetch)
+* master f7524e1 [origin/master] update recipes to use water/river-water buckets, also support for wooden bucket mod
+Mod: flora_ores/farming
+
+origin	https://github.com/minetest-technic/mese_crystals (fetch)
+* master c11160f [origin/master: ahead 1] fix leaked globals
+Mod: flora_ores/mese_crystals
+
+origin	https://github.com/Treer/cloudlands/ (fetch)
+* master 0009137 [origin/master] Update README.md
+Mod: mapgen/cloudlands
+
+origin	https://notabug.org/dacmot/maple (fetch)
+* master 033bdca [origin/master] Add maple wood fence gate
+Mod: mapgen/maple
+
+origin	https://github.com/minetest-mods/meseor (fetch)
+* master b0a99d3 [origin/master] Update
+Mod: mapgen/meseor
+
+origin	https://notabug.org/TenPlus1/pbj_pup (fetch)
+* master 85e1d9a [origin/master] add screenshot
+Mod: mapgen/pbj_pup
+
+origin	https://github.com/GreenXenith/tac_nayn (fetch)
+* master c84756c [origin/master: ahead 1] disable generation for pbj_pup_generate = false
+Mod: mapgen/tac_nayn
+
+origin	https://github.com/taikedz/everamzah-backpacks (fetch)
+* master 7f617df [origin/master] removing rabbit_hide as it does not seem to be standard mobs_redo content
+Mod: tools/backpacks
+
+origin	https://notabug.org/tenplus1/bonemeal (fetch)
+* master 77c02f1 [origin/master] added recipe 9x seed = 1x mulch
+Mod: tools/bonemeal
+
+origin	https://github.com/SmallJoker/boost_cart (fetch)
+* master 5b53183 [origin/master] Descend from cart using sneak (#31)
+Mod: tools/boost_cart
+
+origin	https://github.com/minetest-mods/ccompass (fetch)
+* master 9845a89 [origin/master] hint how to disable teleporting
+Mod: tools/ccompass
+
+origin	https://github.com/minetest-mods/compost (fetch)
+* master a11176b [origin/master] move depends to mod.conf, clanup description.txt and update README.md to markdown
+Mod: tools/compost
+
+origin	https://github.com/orwell96/engrave/ (fetch)
+* master d7c01a1 [origin/master] Make the formspec a textarea when the player has the engrave_long_names privilege
+Mod: tools/engrave
+
+origin	https://github.com/Ezhh/handholds (fetch)
+* master 4b88f2a [origin/master] Fix incorrect sRGB profile 
+Mod: tools/handholds
+
+origin	https://github.com/petermaloney/helicopter (fetch)
+* master 95c5287 [origin/master] Merge pull request #7 from bell07/patch-1
+Mod: tools/helicopter
+
+origin	https://github.com/minetest-mods/hopper (fetch)
+* master 6525e57 [origin/master] add i18n script, update translation files
+Mod: tools/hopper
+
+origin	https://github.com/minetest-mods/jumping (fetch)
+* master fdd5bbd [origin/master] beter recipes - use the jumping cushion to build the trampoline recipes have soft-dependency in recipe to farming and wool
+Mod: tools/jumping
+
+origin	https://github.com/minetest-mods/orbs_of_time/ (fetch)
+* master 2bf8783 [origin/master] switch to client-side translation
+Mod: tools/orbs_of_time
+
+origin	https://github.com/dkartaschew/minetest-rainbowswords (fetch)
+* master 5196d61 [origin/master] Update README.md
+Mod: tools/rainbowswords
+
+origin	https://github.com/bell07/minetest-subspacewalker (fetch)
+* master 245cca9 [origin/master] Update README.md
+Mod: tools/subspacewalker
+
+origin	https://github.com/lisacvuk/minetest-toolranks (fetch)
+* master 8010feb [origin/master] Add nil check afteruse
+Mod: tools/toolranks
+
+origin	https://github.com/minetest-mods/trash_can (fetch)
+* master 423b0f2 [origin/master] Use listrings for inventories (#12)
+Mod: tools/trash_can
+
+origin	https://github.com/minetest-mods/woodcutting (fetch)
+* master                     17ebc11 [origin/master] Merge pull request #6 from Panquesito7/master
+Mod: tools/woodcutting
+
+origin	https://github.com/Amaz1/flight/ (fetch)
+* master 82ddbce [origin/master] Change license to MIT
+Mod: flight/flyingcarpet
+
+origin	https://github.com/tacigar/maidroid (fetch)
+* master ec56bc4 [origin/master] Update README.md
+Mod: maidroid/maidroid
+Mod: maidroid/maidroid_core
+Mod: maidroid/maidroid_tool
+
+origin	https://github.com/Ezhh/abriglass (fetch)
+* master eec4fcd [origin/master] Improve cage glass
+Mod: decor/abriglass
+
+origin	https://gitlab.com/VanessaE/basic_materials (fetch)
+* master 30ffac3 [origin/master] Merge branch 'de' into 'master'
+Mod: decor/basic_materials
+
+origin	https://github.com/Napiophelios/campfire (fetch)
+* master 1058f1d [origin/master] Merge pull request #5 from h4ml3t/development
+Mod: decor/campfire
+
+origin	https://github.com/pithydon/curtain (fetch)
+* master 600e39f [origin/master] Change selection box.
+Mod: decor/curtain
+
+origin	http://repo.or.cz/minetest_dice2.git (fetch)
+* master 1feb5bb [origin/master] Add TRUE ephemeral sounds
+Mod: decor/dice2
+
+origin	https://github.com/cdqwertz/flower_pot (fetch)
+* master 8a62a78 [origin/master] uploaded
+Mod: decor/flower_pot
+
+origin	https://github.com/HybridDog/heads (fetch)
+* master b0f32e2 [origin/master] avoid leaked globals
+Mod: decor/heads
+
+bell07	https://github.com/bell07/minetest-laptop (fetch)
+origin	https://github.com/Gerold55/laptop (fetch)
+* master 8943f55 [bell07/master] add compatibility code for last change
+Mod: decor/laptop
+
+origin	http://repo.or.cz/minetest_mtg_plus.git (fetch)
+* master d10ec7c [origin/master] Version 1.1.0
+Mod: decor/mtg_plus
+
+origin	https://github.com/minetest-mods/myroofs (fetch)
+* master fe98461 [origin/master] Merge pull request #7 from AntumMT/recipe_fixes
+Mod: decor/myroofs
+
+origin	https://github.com/sbrl/plasticbox (fetch)
+* master dad7dc1 [origin/master] Add changelog
+Mod: decor/plasticbox
+
+origin	https://github.com/pithydon/princess (fetch)
+* master 122f28d [origin/master] Fence rail and update for new furniture.
+Mod: decor/princess
+
+origin	https://github.com/minetest-mods/realchess (fetch)
+* master ebda4aa [origin/master] Change preview image
+Mod: decor/realchess
+
+origin	https://github.com/v-rob/slats (fetch)
+* master 723a9c9 [origin/master] Add everything
+Mod: decor/slats
+
+origin	https://github.com/minetest-mods/ts_furniture (fetch)
+* master d6a34f3 [origin/master] Fix undeclared variable warning
+Mod: decor/ts_furniture
+
+origin	https://gitlab.com/VanessaE/unifieddyes (fetch)
+* master         30c55be [origin/master] Merge branch 'airbrush_on_place' into 'master'
+Mod: decor/unifieddyes
+
+origin	https://gitlab.com/VanessaE/homedecor_modpack/ (fetch)
+* master 7a6984f [origin/master: ahead 4] Merge remote-tracking branch 'origin/master'
+Mod: homedecor_modpack/building_blocks
+Mod: homedecor_modpack/fake_fire
+Mod: homedecor_modpack/lavalamp
+Mod: homedecor_modpack/plasmascreen
+Mod: homedecor_modpack/homedecor_bathroom
+Mod: homedecor_modpack/homedecor_bedroom
+Mod: homedecor_modpack/homedecor_books
+Mod: homedecor_modpack/homedecor_climate_control
+Mod: homedecor_modpack/homedecor_clocks
+Mod: homedecor_modpack/homedecor_cobweb
+Mod: homedecor_modpack/homedecor_common
+Mod: homedecor_modpack/homedecor_doors_and_gates
+Mod: homedecor_modpack/homedecor_electrical
+Mod: homedecor_modpack/homedecor_electronics
+Mod: homedecor_modpack/homedecor_exterior
+Mod: homedecor_modpack/homedecor_fences
+Mod: homedecor_modpack/homedecor_foyer
+Mod: homedecor_modpack/homedecor_furniture
+Mod: homedecor_modpack/homedecor_furniture_medieval
+Mod: homedecor_modpack/homedecor_gastronomy
+Mod: homedecor_modpack/homedecor_kitchen
+Mod: homedecor_modpack/homedecor_laundry
+Mod: homedecor_modpack/homedecor_lighting
+Mod: homedecor_modpack/homedecor_misc
+Mod: homedecor_modpack/homedecor_office
+Mod: homedecor_modpack/homedecor_pictures_and_paintings
+Mod: homedecor_modpack/homedecor_roofing
+Mod: homedecor_modpack/homedecor_seating
+Mod: homedecor_modpack/homedecor_tables
+Mod: homedecor_modpack/homedecor_trash_cans
+Mod: homedecor_modpack/homedecor_windows_and_treatments
+
+origin	https://github.com/minetest-mods/mydoors (fetch)
+* master eef3b5f [origin/master] Merge pull request #9 from Jat15/master
+Mod: mydoors/my_castle_doors
+Mod: mydoors/my_cottage_doors
+Mod: mydoors/my_default_doors
+Mod: mydoors/my_door_wood
+Mod: mydoors/my_fancy_doors
+Mod: mydoors/my_future_doors
+Mod: mydoors/my_hidden_doors
+Mod: mydoors/my_misc_doors
+Mod: mydoors/my_old_doors
+Mod: mydoors/my_old_doors
+
+origin	https://github.com/rubenwardy/food (fetch)
+* master ae376e8 [origin/master: ahead 2] removed redundant check for installed mod
+Mod: food_modpack/food
+Mod: food_modpack/food_basic
+
+origin	https://github.com/h-v-smacker/canned_food (fetch)
+* master 755526d [origin/master] readme with a picture
+Mod: food/canned_food
+
+origin	https://github.com/rubenwardy/food_sweet (fetch)
+* master 5c9966d [origin/master] Add mod.conf and screenshot.png
+Mod: food/food_sweet
+
+bell07	https://github.com/bell07/mtfoods (fetch)
+origin	https://github.com/Philipbenr/mtfoods (fetch)
+* master ae3eb42 [origin/master: ahead 1] replace global "ing" by more meaningful global mtfoods.ingredients variable
+Mod: food/mtfoods
+
+origin	https://notabug.org/TenPlus1/pie (fetch)
+* master 3461c54 [origin/master] new pie inventory image (thanks lux_pp)
+Mod: food/pie
+
+origin	https://github.com/GreenXenith/waffles (fetch)
+* master 15bcdce [origin/master] Update license.
+Mod: food/waffles
+
+origin	https://github.com/minetest-mods/mesecons (fetch)
+* master 0d86f2c [origin/master] Prevent unauthorized players from changing the noteblock sound. (#547)
+Mod: mesecons/mesecons
+Mod: mesecons/mesecons_alias
+Mod: mesecons/mesecons_blinkyplant
+Mod: mesecons/mesecons_button
+Mod: mesecons/mesecons_delayer
+Mod: mesecons/mesecons_doors
+Mod: mesecons/mesecons_extrawires
+Mod: mesecons/mesecons_insulated
+Mod: mesecons/mesecons_lamp
+Mod: mesecons/mesecons_lightstone
+Mod: mesecons/mesecons_materials
+Mod: mesecons/mesecons_movestones
+Mod: mesecons/mesecons_mvps
+Mod: mesecons/mesecons_noteblock
+Mod: mesecons/mesecons_pistons
+Mod: mesecons/mesecons_powerplant
+Mod: mesecons/mesecons_pressureplates
+Mod: mesecons/mesecons_random
+Mod: mesecons/mesecons_receiver
+Mod: mesecons/mesecons_solarpanel
+Mod: mesecons/mesecons_switch
+Mod: mesecons/mesecons_torch
+Mod: mesecons/mesecons_walllever
+Mod: mesecons/mesecons_wires
+
+origin	https://codeberg.org/Hamlet/mobs_ghost_redo (fetch)
+* master ac9c013 [origin/master] v0.7.0
+Mod: mobs_redo/mobs_ghost_redo
+
+origin	https://notabug.org/TenPlus1/mobs_monster (fetch)
+* master 4018a5c [origin/master] Added spawn.lua check for custom mob spawns, example file included
+Mod: mobs_redo/mobs_monster
+
+origin	https://notabug.org/TenPlus1/mobs_redo (fetch)
+* master a4d2918 [origin/master] add mob_area_spawn setting
+Mod: mobs_redo/mobs_redo
