@@ -37,3 +37,6 @@
 [submodule "mods/villages/advanced_npc"]
 	path = mods/villages/advanced_npc
 	url = https://github.com/hkzorman/advanced_npc.git
+[submodule "mods/villages/mg_villages_npc"]
+	path = mods/villages/mg_villages_npc
+	url = https://github.com/hkzorman/mg_villages_npc.git
