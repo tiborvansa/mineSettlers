@@ -43,9 +43,6 @@
 [submodule "mods/libs/handle_schematics"]
 	path = mods/libs/handle_schematics
 	url = https://github.com/Sokomine/handle_schematics.git
-[submodule "mods/villagers"]
-	path = mods/villagers
-	url = https://github.com/ErrorNull0/villagers.git
 [submodule "mods/villages/mg_villages"]
 	path = mods/villages/mg_villages
 	url = https://github.com/Sokomine/mg_villages.git
