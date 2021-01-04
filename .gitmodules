@@ -52,3 +52,21 @@
 [submodule "mods/climate"]
 	path = mods/climate
 	url = https://github.com/t-affeldt/climate.git
+[submodule "mods/tools/drawers"]
+	path = mods/tools/drawers
+	url = https://github.com/minetest-mods/drawers.git
+[submodule "mods/player/skinsdb"]
+	path = mods/player/skinsdb
+	url = https://github.com/minetest-mods/skinsdb.git
+[submodule "mods/villages/mobf_trader"]
+	path = mods/villages/mobf_trader
+	url = https://github.com/Sokomine/mobf_trader.git
+[submodule "mods/animals/better_fauna"]
+	path = mods/animals/better_fauna
+	url = https://github.com/ElCeejo/better_fauna.git
+[submodule "mods/animals/mob_core"]
+	path = mods/animals/mob_core
+	url = https://github.com/ElCeejo/mob_core
+[submodule "mods/animals/dmobs"]
+	path = mods/animals/dmobs
+	url = https://github.com/D00Med/dmobs.git
