@@ -67,6 +67,3 @@
 [submodule "mods/animals/mob_core"]
 	path = mods/animals/mob_core
 	url = https://github.com/ElCeejo/mob_core
-[submodule "mods/animals/dmobs"]
-	path = mods/animals/dmobs
-	url = https://github.com/D00Med/dmobs.git
