@@ -57,9 +57,9 @@ if minetest.get_modpath("farming") then
 	minetest.register_craft({
 		output = "mobs:lasso",
 		recipe = {
+			{"farming:string", "farming:string", "farming:string"},
 			{"farming:string", "", "farming:string"},
-			{"", "default:diamond", ""},
-			{"farming:string", "", "farming:string"}
+			{"", "farming:string", ""}
 		}
 	})
 end
