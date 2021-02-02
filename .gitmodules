@@ -94,9 +94,6 @@
 [submodule "mods/tools/slap_rotate"]
 	path = mods/tools/slap_rotate
 	url = https://github.com/AspireMint/slap_rotate.git
-[submodule "mods/underground"]
-	path = mods/underground
-	url = https://gitlab.com/h2mm/underch.git
 [submodule "mods/materials/unifiedbricks"]
 	path = mods/materials/unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks.git
