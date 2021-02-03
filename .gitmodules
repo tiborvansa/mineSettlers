@@ -109,3 +109,21 @@
 [submodule "mods/tools/colormachine"]
 	path = mods/tools/colormachine
 	url = https://github.com/Sokomine/colormachine.git
+[submodule "mods/materials/cement"]
+	path = mods/materials/cement
+	url = https://gitlab.com/4w/cement.git
+[submodule "mods/weapons/minetest-bows"]
+	path = mods/weapons/minetest-bows
+	url = https://github.com/Arcelmi/minetest-bows.git
+[submodule "mods/weapons/spears"]
+	path = mods/weapons/spears
+	url = https://gitlab.com/echoes91/spears.git
+[submodule "mods/weapons/cannons"]
+	path = mods/weapons/cannons
+	url = https://bitbucket.org/kingarthursteam/cannons.git
+[submodule "mods/weapons/fort_spikes"]
+	path = mods/weapons/fort_spikes
+	url = https://gitlab.com/rautars/fort_spikes.git
+[submodule "mods/ships/sailing_kit"]
+	path = mods/ships/sailing_kit
+	url = https://github.com/TheTermos/sailing_kit.git
