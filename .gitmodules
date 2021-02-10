@@ -154,3 +154,18 @@
 [submodule "mods/libs/formspecs"]
 	path = mods/libs/formspecs
 	url = https://bitbucket.org/sorcerykid/formspecs.git
+[submodule "mods/libs/console"]
+	path = mods/libs/console
+	url = https://bitbucket.org/sorcerykid/console.git
+[submodule "mods/libs/timekeeper"]
+	path = mods/libs/timekeeper
+	url = https://bitbucket.org/sorcerykid/timekeeper.git
+[submodule "mods/libs/luacmd"]
+	path = mods/libs/luacmd
+	url = https://github.com/prestidigitator/minetest-mod-luacmd.git
+[submodule "mods/tools/moreblocks"]
+	path = mods/tools/moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "mods/geology/moreores"]
+	path = mods/geology/moreores
+	url = https://github.com/minetest-mods/moreores.git
