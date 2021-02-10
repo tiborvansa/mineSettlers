@@ -124,3 +124,36 @@
 [submodule "mods/ships/sailing_kit"]
 	path = mods/ships/sailing_kit
 	url = https://github.com/TheTermos/sailing_kit.git
+[submodule "mods/transportation/hot_air_balloons"]
+	path = mods/transportation/hot_air_balloons
+	url = https://notabug.org/NetherEran/hot_air_balloons.git
+[submodule "mods/libs/worldedit"]
+	path = mods/libs/worldedit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "mods/technic/technic"]
+	path = mods/technic/technic
+	url = https://github.com/minetest-mods/technic.git
+[submodule "mods/technic/pipeworks"]
+	path = mods/technic/pipeworks
+	url = https://gitlab.com/VanessaE/pipeworks.git
+[submodule "mods/decor/jonez"]
+	path = mods/decor/jonez
+	url = https://github.com/runsy/jonez.git
+[submodule "mods/materials/moreores"]
+	path = mods/materials/moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "mods/decor/homedecor_modpack"]
+	path = mods/decor/homedecor_modpack
+	url = https://gitlab.com/VanessaE/homedecor_modpack.git
+[submodule "mods/tools/signs_lib"]
+	path = mods/tools/signs_lib
+	url = https://gitlab.com/VanessaE/signs_lib.git
+[submodule "mods/materials/basic_materials"]
+	path = mods/materials/basic_materials
+	url = https://gitlab.com/VanessaE/basic_materials.git
+[submodule "mods/tools/cartographer_mtg"]
+	path = mods/tools/cartographer_mtg
+	url = https://gitlab.com/Df458/cartographer-mtg.git
+[submodule "mods/tools/cartographer"]
+	path = mods/tools/cartographer
+	url = https://gitlab.com/Df458/cartographer.git
