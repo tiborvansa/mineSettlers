@@ -13,9 +13,6 @@
 [submodule "mods/biomes/ethereal"]
 	path = mods/biomes/ethereal
 	url = https://notabug.org/TenPlus1/ethereal.git
-[submodule "mods/materials/moreblocks"]
-	path = mods/materials/moreblocks
-	url = https://github.com/minetest-mods/moreblocks.git
 [submodule "mods/decor/cottages"]
 	path = mods/decor/cottages
 	url = https://github.com/Sokomine/cottages.git
