@@ -79,9 +79,6 @@
 [submodule "mods/animals/arctic_life"]
 	path = mods/animals/arctic_life
 	url = https://github.com/NathanSalapat/arctic_life
-[submodule "mods/tools/cartographer-mtg"]
-	path = mods/tools/cartographer-mtg
-	url = https://gitlab.com/Df458/cartographer-mtg.git
 [submodule "mods/tools/painting"]
 	path = mods/tools/painting
 	url = https://github.com/kaeza/painting.git
