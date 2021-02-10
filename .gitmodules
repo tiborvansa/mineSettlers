@@ -133,9 +133,6 @@
 [submodule "mods/decor/jonez"]
 	path = mods/decor/jonez
 	url = https://github.com/runsy/jonez.git
-[submodule "mods/materials/moreores"]
-	path = mods/materials/moreores
-	url = https://github.com/minetest-mods/moreores.git
 [submodule "mods/decor/homedecor_modpack"]
 	path = mods/decor/homedecor_modpack
 	url = https://gitlab.com/VanessaE/homedecor_modpack.git
