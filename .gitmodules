@@ -94,9 +94,6 @@
 [submodule "mods/materials/unifiedbricks"]
 	path = mods/materials/unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks.git
-[submodule "mods/villages/earthbuild"]
-	path = mods/villages/earthbuild
-	url = https://github.com/DokimiCU/earthbuild.git
 [submodule "mods/tools/grafitti"]
 	path = mods/tools/grafitti
 	url = https://github.com/AspireMint/grafitti.git
