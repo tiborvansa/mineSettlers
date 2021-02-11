@@ -172,6 +172,3 @@
 [submodule "mods/libs/qa_blocks"]
 	path = mods/libs/qa_blocks
 	url = https://github.com/minetest-mods/qa_block.git
-[submodule "mods/farming/crops"]
-	path = mods/farming/crops
-	url = https://github.com/minetest-mods/crops.git
