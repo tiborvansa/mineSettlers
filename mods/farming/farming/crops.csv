@@ -1,2 +1,0 @@
-#plname|mname|steps|descript|paramtype2|place_param2|minlight|maxlight|burntime|groups
-barley|farming|7|"Barley Seed"|"meshoptions"|3|13|15|1|{food_barley = 1, flammable = 2}
