@@ -157,3 +157,9 @@
 [submodule "mods/farming"]
 	path = mods/farming
 	url = https://github.com/tiborvansa/farming.git
+[submodule "mods/utilities"]
+	path = mods/utilities
+	url = https://github.com/tiborvansa/utilities.git
+[submodule "mods/npc"]
+	path = mods/npc
+	url = https://github.com/tiborvansa/npc
