@@ -64,9 +64,6 @@
 [submodule "mods/animals/dmobs"]
 	path = mods/animals/dmobs
 	url = https://github.com/minetest-mobs-mods/dmobs
-[submodule "mods/animals/nssm"]
-	path = mods/animals/nssm
-	url = https://github.com/NPXcoot/nssm
 [submodule "mods/animals/desert_life"]
 	path = mods/animals/desert_life
 	url = https://github.com/NathanSalapat/desert_life
