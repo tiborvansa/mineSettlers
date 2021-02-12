@@ -4,9 +4,6 @@
 [submodule "mods/decor/flowerpot"]
 	path = mods/decor/flowerpot
 	url = https://github.com/minetest-mods/flowerpot.git
-[submodule "mods/villages/working_villages"]
-	path = mods/villages/working_villages
-	url = https://github.com/theFox6/working_villages.git
 [submodule "mods/libs/smart_inventory"]
 	path = mods/libs/smart_inventory
 	url = https://github.com/minetest-mods/smart_inventory.git
