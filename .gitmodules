@@ -151,9 +151,6 @@
 [submodule "mods/libs/formspecs"]
 	path = mods/libs/formspecs
 	url = https://bitbucket.org/sorcerykid/formspecs.git
-[submodule "mods/libs/timekeeper"]
-	path = mods/libs/timekeeper
-	url = https://bitbucket.org/sorcerykid/timekeeper.git
 [submodule "mods/tools/moreblocks"]
 	path = mods/tools/moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
