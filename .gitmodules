@@ -148,9 +148,6 @@
 [submodule "mods/tools/cartographer"]
 	path = mods/tools/cartographer
 	url = https://gitlab.com/Df458/cartographer.git
-[submodule "mods/libs/config"]
-	path = mods/libs/config
-	url = https://bitbucket.org/sorcerykid/config.git
 [submodule "mods/libs/formspecs"]
 	path = mods/libs/formspecs
 	url = https://bitbucket.org/sorcerykid/formspecs.git
