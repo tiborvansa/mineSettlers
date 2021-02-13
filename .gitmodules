@@ -121,3 +121,6 @@
 [submodule "mods/tools"]
 	path = mods/tools
 	url = https://github.com/tiborvansa/minetest-tools
+[submodule "mods/materials"]
+	path = mods/materials
+	url = https://github.com/tiborvansa/minetets-materials
