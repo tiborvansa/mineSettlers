@@ -121,3 +121,12 @@
 [submodule "mods/npc"]
 	path = mods/npc
 	url = https://github.com/tiborvansa/npc
+[submodule "mods/mesecons"]
+	path = mods/mesecons
+	url = https://github.com/minetest-mods/mesecons.git
+[submodule "mods/compatibility"]
+	path = mods/compatibility
+	url = https://github.com/tiborvansa/compatibility
+[submodule "mods/user_interface"]
+	path = mods/user_interface
+	url = https://github.com/tiborvansa/user_interface
