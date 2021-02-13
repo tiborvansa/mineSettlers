@@ -43,9 +43,6 @@
 [submodule "mods/climate"]
 	path = mods/climate
 	url = https://github.com/t-affeldt/climate.git
-[submodule "mods/tools/drawers"]
-	path = mods/tools/drawers
-	url = https://github.com/minetest-mods/drawers.git
 [submodule "mods/player/skinsdb"]
 	path = mods/player/skinsdb
 	url = https://github.com/minetest-mods/skinsdb.git
