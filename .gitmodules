@@ -139,9 +139,6 @@
 [submodule "mods/tools/cartographer"]
 	path = mods/tools/cartographer
 	url = https://gitlab.com/Df458/cartographer.git
-[submodule "mods/libs/formspecs"]
-	path = mods/libs/formspecs
-	url = https://bitbucket.org/sorcerykid/formspecs.git
 [submodule "mods/tools/moreblocks"]
 	path = mods/tools/moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
