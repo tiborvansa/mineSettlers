@@ -133,9 +133,6 @@
 [submodule "mods/materials/basic_materials"]
 	path = mods/materials/basic_materials
 	url = https://gitlab.com/VanessaE/basic_materials.git
-[submodule "mods/tools/cartographer_mtg"]
-	path = mods/tools/cartographer_mtg
-	url = https://gitlab.com/Df458/cartographer-mtg.git
 [submodule "mods/tools/moreblocks"]
 	path = mods/tools/moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
