@@ -67,9 +67,6 @@
 [submodule "mods/tools/painting"]
 	path = mods/tools/painting
 	url = https://github.com/kaeza/painting.git
-[submodule "mods/tools/hiking"]
-	path = mods/tools/hiking
-	url = https://gitlab.com/h2mm/hiking.git
 [submodule "mods/tools/slap_rotate"]
 	path = mods/tools/slap_rotate
 	url = https://github.com/AspireMint/slap_rotate.git
