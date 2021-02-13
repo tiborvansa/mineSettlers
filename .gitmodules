@@ -67,9 +67,6 @@
 [submodule "mods/materials/unifiedbricks"]
 	path = mods/materials/unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks.git
-[submodule "mods/materials/stained_glass"]
-	path = mods/materials/stained_glass
-	url = https://github.com/minetest-mods/stained_glass.git
 [submodule "mods/weapons/minetest-bows"]
 	path = mods/weapons/minetest-bows
 	url = https://github.com/Arcelmi/minetest-bows.git
