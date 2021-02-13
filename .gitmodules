@@ -118,3 +118,6 @@
 [submodule "mods/user_interface"]
 	path = mods/user_interface
 	url = https://github.com/tiborvansa/user_interface
+[submodule "mods/tools"]
+	path = mods/tools
+	url = https://github.com/tiborvansa/minetest-tools
