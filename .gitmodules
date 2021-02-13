@@ -4,9 +4,6 @@
 [submodule "mods/decor/flowerpot"]
 	path = mods/decor/flowerpot
 	url = https://github.com/minetest-mods/flowerpot.git
-[submodule "mods/libs/smart_inventory"]
-	path = mods/libs/smart_inventory
-	url = https://github.com/minetest-mods/smart_inventory.git
 [submodule "mods/biomes/ethereal"]
 	path = mods/biomes/ethereal
 	url = https://notabug.org/TenPlus1/ethereal.git
