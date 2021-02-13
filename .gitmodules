@@ -88,9 +88,6 @@
 [submodule "mods/materials/stained_glass"]
 	path = mods/materials/stained_glass
 	url = https://github.com/minetest-mods/stained_glass.git
-[submodule "mods/tools/colormachine"]
-	path = mods/tools/colormachine
-	url = https://github.com/Sokomine/colormachine.git
 [submodule "mods/materials/cement"]
 	path = mods/materials/cement
 	url = https://gitlab.com/4w/cement.git
