@@ -79,9 +79,6 @@
 [submodule "mods/materials/unifiedbricks"]
 	path = mods/materials/unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks.git
-[submodule "mods/tools/grafitti"]
-	path = mods/tools/grafitti
-	url = https://github.com/AspireMint/grafitti.git
 [submodule "mods/materials/stained_glass"]
 	path = mods/materials/stained_glass
 	url = https://github.com/minetest-mods/stained_glass.git
