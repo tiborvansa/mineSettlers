@@ -118,9 +118,6 @@
 [submodule "mods/materials/basic_materials"]
 	path = mods/materials/basic_materials
 	url = https://gitlab.com/VanessaE/basic_materials.git
-[submodule "mods/tools/moreblocks"]
-	path = mods/tools/moreblocks
-	url = https://github.com/minetest-mods/moreblocks.git
 [submodule "mods/geology/moreores"]
 	path = mods/geology/moreores
 	url = https://github.com/minetest-mods/moreores.git
