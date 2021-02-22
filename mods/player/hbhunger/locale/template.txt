@@ -1,7 +1,0 @@
-# textdomain:hbhunger
-Satiation=
-Set satiation of player or yourself=
-Not possible, damage is disabled.=
-Invalid satiation!=
-Player @1 does not exist.=
-[<player>] <satiation>=
