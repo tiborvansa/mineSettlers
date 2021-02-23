@@ -40,9 +40,6 @@
 [submodule "mods/climate"]
 	path = mods/climate
 	url = https://github.com/t-affeldt/climate.git
-[submodule "mods/player/skinsdb"]
-	path = mods/player/skinsdb
-	url = https://github.com/minetest-mods/skinsdb.git
 [submodule "mods/villages/mobf_trader"]
 	path = mods/villages/mobf_trader
 	url = https://github.com/Sokomine/mobf_trader.git
