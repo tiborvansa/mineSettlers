@@ -25,9 +25,6 @@
 [submodule "mods/animals/aerotest"]
 	path = mods/animals/aerotest
 	url = https://github.com/berengma/aerotest.git
-[submodule "mods/villages/mg_villages_npc"]
-	path = mods/villages/mg_villages_npc
-	url = https://github.com/hkzorman/mg_villages_npc.git
 [submodule "mods/libs/handle_schematics"]
 	path = mods/libs/handle_schematics
 	url = https://github.com/Sokomine/handle_schematics.git
