@@ -61,9 +61,6 @@
 [submodule "mods/weapons/minetest-bows"]
 	path = mods/weapons/minetest-bows
 	url = https://github.com/Arcelmi/minetest-bows.git
-[submodule "mods/weapons/spears"]
-	path = mods/weapons/spears
-	url = https://gitlab.com/echoes91/spears.git
 [submodule "mods/ships/sailing_kit"]
 	path = mods/ships/sailing_kit
 	url = https://github.com/TheTermos/sailing_kit.git
