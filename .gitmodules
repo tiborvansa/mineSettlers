@@ -64,9 +64,6 @@
 [submodule "mods/weapons/spears"]
 	path = mods/weapons/spears
 	url = https://gitlab.com/echoes91/spears.git
-[submodule "mods/weapons/cannons"]
-	path = mods/weapons/cannons
-	url = https://bitbucket.org/kingarthursteam/cannons.git
 [submodule "mods/weapons/fort_spikes"]
 	path = mods/weapons/fort_spikes
 	url = https://gitlab.com/rautars/fort_spikes.git
