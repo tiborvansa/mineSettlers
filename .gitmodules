@@ -58,9 +58,6 @@
 [submodule "mods/animals/arctic_life"]
 	path = mods/animals/arctic_life
 	url = https://github.com/NathanSalapat/arctic_life
-[submodule "mods/weapons/minetest-bows"]
-	path = mods/weapons/minetest-bows
-	url = https://github.com/Arcelmi/minetest-bows.git
 [submodule "mods/ships/sailing_kit"]
 	path = mods/ships/sailing_kit
 	url = https://github.com/TheTermos/sailing_kit.git
