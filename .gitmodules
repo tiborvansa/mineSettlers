@@ -109,3 +109,6 @@
 [submodule "mods/player"]
 	path = mods/player
 	url = https://github.com/bell07/minetest-player_api_modpack
+[submodule "mods/weapons"]
+	path = mods/weapons
+	url = https://github.com/tiborvansa/minetest-weapons.git
