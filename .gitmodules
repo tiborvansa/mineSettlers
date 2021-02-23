@@ -109,3 +109,6 @@
 [submodule "mods/materials"]
 	path = mods/materials
 	url = https://github.com/tiborvansa/minetets-materials
+[submodule "mods/player"]
+	path = mods/player
+	url = https://github.com/bell07/minetest-player_api_modpack
