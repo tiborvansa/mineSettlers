@@ -76,9 +76,6 @@
 [submodule "mods/decor/homedecor_modpack"]
 	path = mods/decor/homedecor_modpack
 	url = https://gitlab.com/VanessaE/homedecor_modpack.git
-[submodule "mods/geology/moreores"]
-	path = mods/geology/moreores
-	url = https://github.com/minetest-mods/moreores.git
 [submodule "mods/farming"]
 	path = mods/farming
 	url = https://github.com/tiborvansa/farming.git
