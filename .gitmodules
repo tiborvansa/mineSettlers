@@ -106,3 +106,6 @@
 [submodule "mods/magic"]
 	path = mods/magic
 	url = https://github.com/tiborvansa/minetest-magic_modpack.git
+[submodule "mods/geology"]
+	path = mods/geology
+	url = https://github.com/tiborvansa/minetest-geology_modpack.git
