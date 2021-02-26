@@ -109,3 +109,6 @@
 [submodule "mods/weapons"]
 	path = mods/weapons
 	url = https://github.com/tiborvansa/minetest-weapons.git
+[submodule "mods/magic"]
+	path = mods/magic
+	url = https://github.com/tiborvansa/minetest-magic_modpack.git
