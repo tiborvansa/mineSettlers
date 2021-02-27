@@ -55,9 +55,6 @@
 [submodule "mods/ships/sailing_kit"]
 	path = mods/ships/sailing_kit
 	url = https://github.com/TheTermos/sailing_kit.git
-[submodule "mods/transportation/hot_air_balloons"]
-	path = mods/transportation/hot_air_balloons
-	url = https://notabug.org/NetherEran/hot_air_balloons.git
 [submodule "mods/libs/worldedit"]
 	path = mods/libs/worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
