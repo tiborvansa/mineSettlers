@@ -97,3 +97,6 @@
 [submodule "mods/physics"]
 	path = mods/physics
 	url = https://github.com/tiborvansa/minetest-physics_modpack.git
+[submodule "mods/visual_effects"]
+	path = mods/visual_effects
+	url = https://github.com/tiborvansa/minetest-visual_effects_modpack.git
