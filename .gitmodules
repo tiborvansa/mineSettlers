@@ -61,9 +61,6 @@
 [submodule "mods/libs/worldedit"]
 	path = mods/libs/worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
-[submodule "mods/technic/technic"]
-	path = mods/technic/technic
-	url = https://github.com/minetest-mods/technic.git
 [submodule "mods/decor/jonez"]
 	path = mods/decor/jonez
 	url = https://github.com/runsy/jonez.git
