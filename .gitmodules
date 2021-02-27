@@ -40,9 +40,6 @@
 [submodule "mods/animals/arctic_life"]
 	path = mods/animals/arctic_life
 	url = https://github.com/NathanSalapat/arctic_life
-[submodule "mods/libs/worldedit"]
-	path = mods/libs/worldedit
-	url = https://github.com/Uberi/Minetest-WorldEdit.git
 [submodule "mods/decor/jonez"]
 	path = mods/decor/jonez
 	url = https://github.com/runsy/jonez.git
