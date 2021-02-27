@@ -94,3 +94,6 @@
 [submodule "mods/mapgen"]
 	path = mods/mapgen
 	url = https://github.com/tiborvansa/minetest-mapgen_modpack.git
+[submodule "mods/physics"]
+	path = mods/physics
+	url = https://github.com/tiborvansa/minetest-physics_modpack.git
