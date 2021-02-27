@@ -100,3 +100,6 @@
 [submodule "mods/techmod"]
 	path = mods/techmod
 	url = https://github.com/tiborvansa/minetest-tech_modpack.git
+[submodule "mods/transportation"]
+	path = mods/transportation
+	url = https://github.com/tiborvansa/minetest-transportation_modpack.git
