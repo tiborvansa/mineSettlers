@@ -97,3 +97,6 @@
 [submodule "mods/geology"]
 	path = mods/geology
 	url = https://github.com/tiborvansa/minetest-geology_modpack.git
+[submodule "mods/techmod"]
+	path = mods/techmod
+	url = https://github.com/tiborvansa/minetest-tech_modpack.git
