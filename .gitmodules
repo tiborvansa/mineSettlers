@@ -97,3 +97,6 @@
 [submodule "mods/visual_effects"]
 	path = mods/visual_effects
 	url = https://github.com/tiborvansa/minetest-visual_effects_modpack.git
+[submodule "mods/homedecor"]
+	path = mods/homedecor
+	url = https://gitlab.com/VanessaE/homedecor_modpack.git
