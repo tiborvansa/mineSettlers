@@ -52,9 +52,6 @@
 [submodule "mods/animals/arctic_life"]
 	path = mods/animals/arctic_life
 	url = https://github.com/NathanSalapat/arctic_life
-[submodule "mods/ships/sailing_kit"]
-	path = mods/ships/sailing_kit
-	url = https://github.com/TheTermos/sailing_kit.git
 [submodule "mods/libs/worldedit"]
 	path = mods/libs/worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
