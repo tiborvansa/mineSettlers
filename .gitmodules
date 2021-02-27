@@ -91,3 +91,6 @@
 [submodule "mods/villages"]
 	path = mods/villages
 	url = https://github.com/tiborvansa/minetest-villages_modpack.git
+[submodule "mods/mapgen"]
+	path = mods/mapgen
+	url = https://github.com/tiborvansa/minetest-mapgen_modpack.git
