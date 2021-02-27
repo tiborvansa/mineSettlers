@@ -94,3 +94,6 @@
 [submodule "mods/transportation"]
 	path = mods/transportation
 	url = https://github.com/tiborvansa/minetest-transportation_modpack.git
+[submodule "mods/villages"]
+	path = mods/villages
+	url = https://github.com/tiborvansa/minetest-villages_modpack.git
