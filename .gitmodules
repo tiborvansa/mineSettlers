@@ -10,9 +10,6 @@
 [submodule "mods/climate"]
 	path = mods/climate
 	url = https://github.com/t-affeldt/climate.git
-[submodule "mods/animals/mob_core"]
-	path = mods/animals/mob_core
-	url = https://github.com/ElCeejo/mob_core
 [submodule "mods/decor/jonez"]
 	path = mods/decor/jonez
 	url = https://github.com/runsy/jonez.git
