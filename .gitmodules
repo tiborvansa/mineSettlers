@@ -25,9 +25,6 @@
 [submodule "mods/animals/dmobs"]
 	path = mods/animals/dmobs
 	url = https://github.com/minetest-mobs-mods/dmobs
-[submodule "mods/animals/desert_life"]
-	path = mods/animals/desert_life
-	url = https://github.com/NathanSalapat/desert_life
 [submodule "mods/decor/jonez"]
 	path = mods/decor/jonez
 	url = https://github.com/runsy/jonez.git
