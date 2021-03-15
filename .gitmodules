@@ -7,9 +7,6 @@
 [submodule "mods/biomes/ethereal"]
 	path = mods/biomes/ethereal
 	url = https://notabug.org/TenPlus1/ethereal.git
-[submodule "mods/animals/wildlife"]
-	path = mods/animals/wildlife
-	url = https://github.com/TheTermos/wildlife.git
 [submodule "mods/animals/waterlife"]
 	path = mods/animals/waterlife
 	url = https://github.com/berengma/water_life.git
