@@ -10,9 +10,6 @@
 [submodule "mods/animals/mobkit"]
 	path = mods/animals/mobkit
 	url = https://github.com/TheTermos/mobkit.git
-[submodule "mods/animals/petz"]
-	path = mods/animals/petz
-	url = https://github.com/runsy/petz.git
 [submodule "mods/animals/wildlife"]
 	path = mods/animals/wildlife
 	url = https://github.com/TheTermos/wildlife.git
