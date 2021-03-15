@@ -19,9 +19,6 @@
 [submodule "mods/animals/waterlife"]
 	path = mods/animals/waterlife
 	url = https://github.com/berengma/water_life.git
-[submodule "mods/animals/aerotest"]
-	path = mods/animals/aerotest
-	url = https://github.com/berengma/aerotest.git
 [submodule "mods/climate"]
 	path = mods/climate
 	url = https://github.com/t-affeldt/climate.git
